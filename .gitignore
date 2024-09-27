@@ -1,0 +1,11 @@
+# Back-end
+/bitrix/
+/upload/
+/.htaccess
+/.htpasswd
+/html*
+
+# Misc
+/.idea
+.DS_Store
+error_log
